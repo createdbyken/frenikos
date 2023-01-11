@@ -81,13 +81,13 @@ export default function Footer({ copyrightText }) {
   return (
     <footer className="py-16 flex flex-col items-center">
       <div className="flex flex-col px-8 py-0  md:px-8 md:pt-4 md:flex-row justify-center items-center">
-        <a href="https://www.linkedin.com/in/kenrric-garcia/" target="_blank" rel="noopener" class="px-3 py-3 mb-4 text-center text-gray-200 transition-colors duration-500 ease-in-out rounded-lg md:mr-4 md:ml-0 text-md md:text-md md:p-3">
+        <a href="https://www.linkedin.com/in/kenrric-garcia/" target="_blank" rel="noreferrer"  class="px-3 py-3 mb-4 text-center text-gray-200 transition-colors duration-500 ease-in-out rounded-lg md:mr-4 md:ml-0 text-md md:text-md md:p-3">
           <i class="devicon-linkedin-plain" aria-label="Linkedin">LinkedIn</i>
         </a>
-        <a href="https://twitter.com/createdbyken" target="_blank" rel="noopener" class="px-3 py-3 mb-4 text-center text-gray-200 transition-colors duration-500 ease-in-out rounded-lg md:mr-4 md:ml-0 text-md md:text-md md:p-3">
+        <a href="https://twitter.com/createdbyken" target="_blank"  rel="noreferrer" class="px-3 py-3 mb-4 text-center text-gray-200 transition-colors duration-500 ease-in-out rounded-lg md:mr-4 md:ml-0 text-md md:text-md md:p-3">
           <i class="devicon-twitter-original" aria-label="Twitter">Twitter</i>
         </a>
-        <a href="https://www.instagram.com/createdby.ken/" class="px-3 py-3 mb-4 text-center text-gray-200  transition-colors duration-500 ease-in-out  rounded-lg md:mr-4 md:ml-0 text-md md:text-md md:p-3" target="_blank" rel="noopener">
+        <a href="https://www.instagram.com/createdby.ken/" class="px-3 py-3 mb-4 text-center text-gray-200  transition-colors duration-500 ease-in-out  rounded-lg md:mr-4 md:ml-0 text-md md:text-md md:p-3" target="_blank" rel="noreferrer" >
           <i class="devicon-instagram-original" aria-label="Instagram">Instagram</i>
         </a>
       </div>
